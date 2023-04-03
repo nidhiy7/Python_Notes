@@ -1,4 +1,4 @@
-# Learn Python Programming
+# My Python Notes
 ## Table Of Contents <a name="top"></a>
 
 1. [Introduction](#1)  
